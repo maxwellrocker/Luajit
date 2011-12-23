@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1324622739 source:d:\project\lua\luajit\src\airplane.cpp
+	"../include/airplane.h"
+
+1324622699 d:\project\lua\luajit\include\airplane.h
+
+1324622878 source:d:\project\lua\luajit\main.cpp
+	<iostream>
+	"include/airplane.h"
+	"lua.h"
+	"lualib.h"
+	"lauxlib.h"
+
